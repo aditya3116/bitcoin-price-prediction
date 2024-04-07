@@ -1,0 +1,1 @@
+This repository contains code and resources for predicting the price of Bitcoin using machine learning techniques. The goal is to develop models that can forecast the future price of Bitcoin with reasonable accuracy based on historical data.
